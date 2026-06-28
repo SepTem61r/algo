@@ -1,5 +1,7 @@
 package Krahets
 
+const url20 = "https://leetcode.cn/problems/valid-parentheses/?envType=study-plan-v2&envId=selected-coding-interview"
+
 func isValid(s string) bool {
 
 	if len(s)%2 == 1 {
